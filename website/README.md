@@ -37,6 +37,6 @@ The visual rebuild introduces responsive line illustrations,
 scroll reveals, a shared light navigation, and system reduced-motion support.
 Illustrations live in `src/Illustrations.tsx`; layouts use Tailwind utilities.
 
-The primary download action points directly to the current Apple-silicon DMG. Plans explain that
-current pricing and Stripe checkout live in Usage & Billing inside AutoM8.
+The primary download action points directly to the current Apple-silicon DMG. Plans publish the
+Free, Individual Pro, Team, additional-member, and top-up prices, while Stripe checkout remains in Usage & Billing inside AutoM8.
 Gallery examples are illustrative. This rebuild does not add a backend.

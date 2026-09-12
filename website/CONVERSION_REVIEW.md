@@ -13,13 +13,12 @@ pilot.
 ## Changes
 
 - Removed every public website URL and CTA targeting `app.getautom8.ae`.
-- Made the verified public GitHub Releases page the stable Download destination.
+- Made the verified public Apple-silicon DMG the direct Download destination.
 - Changed desktop/mobile header actions to View plans and Download AutoM8.
 - Changed Home hero, gallery CTA, and closing CTA to Download, with Plans as the
   secondary path.
-- Reframed Plans around Download, Plus, and Organization. No price is hard-coded;
-  the page directs customers to current pricing and Stripe checkout inside the
-  managed app's Usage & Billing screen.
+- Published the approved Free, Individual Pro, Team, additional-member, and top-up pricing;
+  checkout remains inside the managed app's Usage & Billing screen.
 - Reworked For business leaders around one accountable pilot, a repeatable review
   rhythm, evidence-led expansion, and an organization-plan path.
 - Updated Docs to describe the managed desktop account and in-app billing rather

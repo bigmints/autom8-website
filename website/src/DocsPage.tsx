@@ -227,8 +227,8 @@ const topics: DocTopic[] = [
     sections: [
       {
         heading: 'Use Usage & Billing in AutoM8',
-        body: 'Current plans, pricing, credit balance, and usage information are shown inside the managed AutoM8 app. Buy a plan or add credits there through the secure Stripe checkout.',
-        bullets: ['Check available credits before a larger generation task.', 'Use the account’s current plan information rather than older screenshots or documents.', 'Ask a workspace owner when team access or allocation needs to change.'],
+        body: 'Start free with 100 one-time credits. Individual Pro is $24 per month or $259 annually with 1,500 monthly credits. Team is $79 per month or $849 annually with 5,000 pooled monthly credits for three members. Buy a plan or add credits from Usage & Billing through secure Stripe checkout.',
+        bullets: ['Top up with 400 credits for $10, 1,000 credits for $20, or 3,000 credits for $55.', 'Additional team members are $24 per month each.', 'Check available credits before a larger generation task.', 'Ask a workspace owner when team access or allocation needs to change.'],
       },
       {
         heading: 'Managed generation',

@@ -12,7 +12,7 @@ in VERIFICATION.md.
   violet-50 and three illustrated steps; focus on decisions and early learning.
 - Homepage: communicate exploration, useful feedback and clearer next steps.
 - Docs: practical desktop project, preview, refinement and export guidance.
-- Plans: audience starting points, with actual pricing/availability in accounts.
+- Plans: clear Free, Individual Pro, Team, additional-member, and top-up pricing.
 - Remove the fake waitlist submission and unsupported delivery/compliance claims.
 - Keep routes, shared navigation, Get started and motion/reduced-motion support.
 - Replace the illustrative wellness preview's no-op button with a decorative span.

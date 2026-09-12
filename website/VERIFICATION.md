@@ -23,7 +23,7 @@ Observed using the in-app browser against `http://127.0.0.1:4174/`.
 | Homepage at 390×844 | Document width 390; headline and Get started CTA readable |
 | Business page at desktop/mobile | Correct headline; no horizontal overflow |
 | Docs at desktop/mobile | Five guides; no horizontal overflow |
-| Plans at desktop/mobile | Designer, Studio and Organization cards present; no horizontal overflow |
+| Plans at desktop/mobile | Free, Individual Pro, Team, and top-up pricing present; no horizontal overflow |
 | Mobile menu → Docs | Opens menu and navigates to /docs successfully |
 | Examples navigation | Reaches /#inspiration; all six examples present |
 | Sticky navigation after anchor jump | Header top remains 0 |
