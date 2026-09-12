@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { Menu, X } from 'lucide-react';
 
-export const DOWNLOAD_URL = 'https://github.com/Bigmints-com/autom8-releases/releases/latest';
+export const DOWNLOAD_URL = 'https://github.com/Bigmints-com/autom8-releases/releases/download/v0.1.0/AutoM8-0.1.0-arm64.dmg';
 const SITE_BASE = import.meta.env.BASE_URL.replace(/\/$/, '');
 export const sitePath = (path: string) => `${SITE_BASE}${path.startsWith('/') ? path : `/${path}`}` || '/';
 export const siteRoutePath = () => {

@@ -45,7 +45,7 @@ administrator configures a hosting service.
 - Search indexes topic titles, descriptions, and groups
 - Mobile documentation navigation uses an accessible expanded/collapsed control
 - Shared desktop/mobile navigation and the footer retain a Download link to the
-  public `Bigmints-com/autom8-releases` latest release page
+  current Apple-silicon DMG in `Bigmints-com/autom8-releases`
 - The Docs overview offers Download for macOS beside the plans link
 
 The release destination was read back from GitHub before use: latest public,
