@@ -23,11 +23,9 @@ export const BrandLogo = () => (
 
 const navigation = [
   { label: 'Product', href: sitePath('/#features'), match: '/' },
-  { label: 'Examples', href: sitePath('/#inspiration') },
   { label: 'For business leaders', href: sitePath('/for-business-leaders'), match: '/for-business-leaders' },
   { label: 'Docs', href: sitePath('/docs'), match: '/docs' },
   { label: 'Plans', href: sitePath('/plans'), match: '/plans' },
-  { label: 'Download', href: DOWNLOAD_URL },
 ];
 
 const isActive = (match?: string) => {
