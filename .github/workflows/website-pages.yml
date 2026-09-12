@@ -42,8 +42,28 @@ jobs:
         env:
           VITE_BASE_PATH: /autom8-website/
 
-      - name: Add single-page app fallback
-        run: cp website/dist/index.html website/dist/404.html
+      - name: Add static route entry points and fallback
+        run: |
+          for route in \
+            plans \
+            for-business-leaders \
+            docs \
+            docs/getting-started \
+            docs/account-and-access \
+            docs/projects \
+            docs/flows \
+            docs/screens \
+            docs/design-systems \
+            docs/preview \
+            docs/figma \
+            docs/export \
+            docs/plans-and-usage \
+            docs/troubleshooting
+          do
+            mkdir -p "website/dist/$route"
+            cp website/dist/index.html "website/dist/$route/index.html"
+          done
+          cp website/dist/index.html website/dist/404.html
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
